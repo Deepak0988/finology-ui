@@ -1,0 +1,7 @@
+{
+  "name": "finology",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
